@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0a0c0f"/>
+      <stop offset="1" stop-color="#0d1116"/>
+    </linearGradient>
+    <linearGradient id="rail" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#78ffb4"/>
+      <stop offset="1" stop-color="#7cc7ff"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .mono{font-family:ui-monospace,SFMono-Regular,'JetBrains Mono',Consolas,'Liberation Mono',Menlo,monospace}
+    .sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif}
+    @keyframes draw{from{stroke-dashoffset:290}to{stroke-dashoffset:0}}
+    @keyframes rise{from{opacity:0;transform:translateX(-14px)}to{opacity:1;transform:none}}
+    @keyframes ping{0%{r:9;opacity:.6}100%{r:22;opacity:0}}
+    @keyframes blink{50%{opacity:.35}}
+    .rail{stroke-dasharray:290;animation:draw 1.6s .2s ease-out both}
+    .e1{animation:rise .7s .3s ease-out both}
+    .e2{animation:rise .7s .8s ease-out both}
+    .e3{animation:rise .7s 1.3s ease-out both}
+    .ping{animation:ping 2.2s ease-out infinite}
+    .now{animation:blink 2s ease-in-out infinite}
+  </style>
+
+  <rect x=".5" y=".5" width="1199" height="429" rx="22" fill="url(#bg)" stroke="#1f252d"/>
+  <text x="56" y="62" class="mono" font-size="14" fill="#78ffb4">// deneyim &amp; eğitim · experience &amp; education</text>
+
+  <path d="M84 110V352" stroke="#1f252d" stroke-width="2"/>
+  <path class="rail" d="M84 110V352" stroke="url(#rail)" stroke-width="2"/>
+
+  <!-- 1: university -->
+  <g class="e1">
+    <circle class="ping" cx="84" cy="116" r="9" fill="#78ffb4"/>
+    <circle cx="84" cy="116" r="8" fill="#0a0c0f" stroke="#78ffb4" stroke-width="2.5"/>
+    <circle cx="84" cy="116" r="3" fill="#78ffb4"/>
+    <text x="120" y="112" class="mono" font-size="13" fill="#78ffb4">AĞU 2026 — DEVAM EDİYOR · PRESENT</text>
+    <rect class="now" x="430" y="98" width="86" height="20" rx="10" fill="#78ffb4"/>
+    <text x="473" y="112" class="mono" font-size="11" font-weight="700" fill="#04140b" text-anchor="middle">ŞU AN · NOW</text>
+    <text x="120" y="142" class="sans" font-size="22" font-weight="700" fill="#e8ecf1">Bilgisayar Programcılığı <tspan fill="#5b6573" font-weight="400">·</tspan> <tspan fill="#8a94a3" font-weight="500">Computer Programming</tspan></text>
+    <text x="120" y="166" class="sans" font-size="15" fill="#8a94a3">İstanbul Gelişim Üniversitesi — Ön Lisans · Associate Degree</text>
+  </g>
+
+  <!-- 2: internship -->
+  <g class="e2">
+    <circle cx="84" cy="228" r="8" fill="#0a0c0f" stroke="#7cc7ff" stroke-width="2.5"/>
+    <text x="120" y="224" class="mono" font-size="13" fill="#7cc7ff">EYL 2024 — HAZ 2025 · SEP 2024 — JUN 2025 · 10 AY / MONTHS</text>
+    <text x="120" y="254" class="sans" font-size="22" font-weight="700" fill="#e8ecf1">Bilgi İşlem (IT) Stajyeri <tspan fill="#5b6573" font-weight="400">·</tspan> <tspan fill="#8a94a3" font-weight="500">IT Intern</tspan></text>
+    <text x="120" y="278" class="sans" font-size="15" fill="#8a94a3">Özkan Tekstil — Silivri, İstanbul · donanım, ağ, teknik destek / hardware, networking, support</text>
+  </g>
+
+  <!-- 3: high school -->
+  <g class="e3">
+    <circle cx="84" cy="340" r="8" fill="#0a0c0f" stroke="#b69cff" stroke-width="2.5"/>
+    <text x="120" y="336" class="mono" font-size="13" fill="#b69cff">EYL 2021 — HAZ 2025 · 4 YIL / YEARS · MEZUN / GRADUATED</text>
+    <text x="120" y="366" class="sans" font-size="22" font-weight="700" fill="#e8ecf1">Yazılım Geliştirme <tspan fill="#5b6573" font-weight="400">·</tspan> <tspan fill="#8a94a3" font-weight="500">Software Development</tspan></text>
+    <text x="120" y="390" class="sans" font-size="15" fill="#8a94a3">Silivri Yusuf Sarıbekir MTAL — Bilişim Teknolojileri · Vocational HS, Information Technologies</text>
+  </g>
+</svg>

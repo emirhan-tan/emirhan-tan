@@ -1,130 +1,88 @@
-<div align="center">
+<a href="https://emirhantan.com.tr"><img src="assets/header.svg" width="100%" alt="Emirhan Tan — Yazılım Geliştirici · Software Developer"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c0f,50:0f3d2a,100:78ffb4&height=200&section=header&text=Emirhan%20Tan&fontSize=62&fontColor=e8ecf1&fontAlignY=36&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%C2%B7%20Software%20Developer%20%C2%B7%20%C4%B0stanbul&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Emirhan Tan"/>
-
-<a href="https://emirhantan.com.tr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=78FFB4&center=true&vCenter=true&width=640&lines=Merhaba%2C+ben+Emirhan+%F0%9F%91%8B;Hi%2C+I'm+Emirhan+%F0%9F%91%8B;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%C2%B7+Software+Developer;JavaScript+%C2%B7+PHP+%C2%B7+Python+%C2%B7+C+%C2%B7+C%23;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%40+%C4%B0G%C3%9C;Computer+Programming+%40+Istanbul+Gelisim+Univ." alt="Typing SVG"/>
-</a>
-
-<p>
-  <a href="https://emirhantan.com.tr"><img src="https://img.shields.io/badge/emirhantan.com.tr-0a0c0f?style=for-the-badge&logo=googlechrome&logoColor=78ffb4" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/emirhantan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/emirhantan.0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=emirhan-tan&style=for-the-badge&color=78ffb4&label=PROFILE+VIEWS" alt="Profile views"/>
+<p align="center">
+  <a href="https://emirhantan.com.tr"><img src="https://img.shields.io/badge/emirhantan.com.tr-0d1117?style=flat-square&logo=googlechrome&logoColor=78ffb4" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/emirhantan"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=78ffb4" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/emirhantan.0"><img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=78ffb4" alt="Instagram"/></a>
+  <a href="https://github.com/emirhan-tan"><img src="https://komarev.com/ghpvc/?username=emirhan-tan&style=flat-square&color=0d1117&labelColor=0d1117&label=%F0%9F%91%81%20views" alt="Profile views"/></a>
 </p>
 
-<sub>🇹🇷 Türkçe aşağıda · 🇬🇧 English version below — click to expand</sub>
+<br/>
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🇹🇷 Hakkımda
 
-<details open>
-<summary><h3>🇹🇷 Türkçe</h3></summary>
+Merhaba, ben **Emirhan** 👋 İstanbul'da yaşayan bir yazılım geliştiriciyim.
 
-### 👨‍💻 Hakkımda
+- 🎓 **İstanbul Gelişim Üniversitesi** — Bilgisayar Programcılığı
+- 🏫 **Yazılım Geliştirme** dalı mezunu (Bilişim lisesi, 4 yıl)
+- 💼 **Özkan Tekstil**'de 10 ay Bilgi İşlem (IT) stajı
+- ⚡ Donanımın sınırlarını zorlamayı, ağ sistemlerini optimize etmeyi ve işleri kolaylaştıran kodlar yazmayı seviyorum
+- 🌱 Şu an: web geliştirme, ağ sistemleri, Linux / OpenWrt
 
-```js
-const emirhan = {
-  rol:      "Yazılım Geliştirici",
-  okul:     "İstanbul Gelişim Üniversitesi — Bilgisayar Programcılığı (Ön Lisans)",
-  lise:     "Silivri Yusuf Sarıbekir MTAL — Bilişim Teknolojileri / Yazılım Geliştirme",
-  deneyim:  "Özkan Tekstil — Bilgi İşlem (IT) Stajyeri · 10 ay",
-  diller:   ["JavaScript", "PHP", "Python", "C", "C#", "HTML", "CSS"],
-  sevdigim: ["donanımın sınırlarını zorlamak", "ağ sistemlerini optimize etmek", "işleri kolaylaştıran kodlar"],
-  konum:    "İstanbul, TR",
-  kahve:    Infinity,
-};
-```
+</td>
+<td width="50%" valign="top">
 
-- 🎓 **İstanbul Gelişim Üniversitesi**'nde Bilgisayar Programcılığı okuyorum (2026 – devam ediyor)
-- 🏫 **Silivri Yusuf Sarıbekir MTAL** — Bilişim Teknolojileri, Yazılım Geliştirme dalı mezunuyum (2021 – 2025)
-- 💼 **Özkan Tekstil**'in Bilgi İşlem biriminde 10 ay IT stajı yaptım (2024 – 2025)
-- 🌱 Şu an öğrendiklerim: web geliştirme, ağ sistemleri ve Linux/OpenWrt
-- 🤝 Ekip çalışmasına yatkınım; araştırmayı ve yeni teknolojileri öğrenmeyi seviyorum
-- 📫 Bana ulaş: [LinkedIn](https://www.linkedin.com/in/emirhantan) · [Instagram](https://www.instagram.com/emirhantan.0) · [emirhantan.com.tr](https://emirhantan.com.tr)
+### 🇬🇧 About Me
 
-### 🚀 Öne Çıkan Projeler
+Hi, I'm **Emirhan** 👋 a software developer based in Istanbul.
 
-| Proje | Açıklama | Teknoloji |
-|---|---|---|
-| [**ryzenlite**](https://github.com/emirhan-tan/ryzenlite) | OpenWrt için Xray tabanlı seçici tünel ve modern LuCI paneli — VLESS / Vision / REALITY / ECH, TPROXY / TUN / Mixed, cihaz bazlı tünel, tek tıkla güncelleme | OpenWrt · LuCI · Xray |
-| [**emirhantan.com.tr**](https://github.com/emirhan-tan/emirhantan.com.tr) | Kişisel developer sayfam — iki dilli, parçacık ağı, interaktif terminal, GitHub'dan canlı repo listesi | HTML · CSS · JavaScript |
+- 🎓 **Istanbul Gelisim University** — Computer Programming
+- 🏫 Graduated in **Software Development** (vocational IT high school, 4 yrs)
+- 💼 10-month IT internship at **Özkan Tekstil**
+- ⚡ I love pushing hardware to its limits, optimizing networks and writing code that makes work easier
+- 🌱 Currently: web development, networking, Linux / OpenWrt
 
-</details>
+</td>
+</tr>
+</table>
 
-<details>
-<summary><h3>🇬🇧 English</h3></summary>
+<br/>
 
-### 👨‍💻 About Me
+<img src="assets/journey.svg" width="100%" alt="Deneyim ve eğitim · Experience and education"/>
 
-```js
-const emirhan = {
-  role:       "Software Developer",
-  university: "Istanbul Gelisim University — Computer Programming (Associate Degree)",
-  highSchool: "Silivri Yusuf Sarıbekir Vocational HS — Information Technologies / Software Development",
-  experience: "Özkan Tekstil — IT Intern · 10 months",
-  languages:  ["JavaScript", "PHP", "Python", "C", "C#", "HTML", "CSS"],
-  loves:      ["pushing hardware to its limits", "optimizing network systems", "code that makes work easier"],
-  location:   "Istanbul, TR",
-  coffee:     Infinity,
-};
-```
+<br/>
 
-- 🎓 Studying Computer Programming at **Istanbul Gelisim University** (2026 – present)
-- 🏫 Graduated from the Software Development branch of IT at **Silivri Yusuf Sarıbekir Vocational and Technical Anatolian High School** (2021 – 2025)
-- 💼 Completed a 10-month IT internship at **Özkan Tekstil** (2024 – 2025)
-- 🌱 Currently learning: web development, network systems and Linux/OpenWrt
-- 🤝 A team player who loves research and learning new technologies
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/emirhantan) · [Instagram](https://www.instagram.com/emirhantan.0) · [emirhantan.com.tr](https://emirhantan.com.tr)
+<h3 align="center">🛠️ Teknolojiler · Tech Stack</h3>
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**ryzenlite**](https://github.com/emirhan-tan/ryzenlite) | Xray-based selective tunnel and modern LuCI panel for OpenWrt — VLESS / Vision / REALITY / ECH, TPROXY / TUN / Mixed, per-device tunneling, one-click updates | OpenWrt · LuCI · Xray |
-| [**emirhantan.com.tr**](https://github.com/emirhan-tan/emirhantan.com.tr) | My personal developer page — bilingual, particle network, interactive terminal, live repo list from GitHub | HTML · CSS · JavaScript |
-
-</details>
-
----
-
-### 🛠️ Teknolojiler · Tech Stack
-
-<div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,c,cs,dotnet,mysql&perline=9" alt="Languages"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,c,cs,dotnet,mysql&theme=dark" alt="Languages"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,bash,vscode,visualstudio,windows&perline=8" alt="Tools"/>
-</a>
+  <img src="https://skillicons.dev/icons?i=nodejs,git,github,linux,bash,vscode,visualstudio,windows&theme=dark" alt="Tools"/>
+</p>
 
-</div>
+<br/>
 
----
+<h3 align="center">🚀 Projeler · Projects</h3>
 
-### 📊 GitHub İstatistikleri · GitHub Stats
+<p align="center">
+  <a href="https://github.com/emirhan-tan/ryzenlite"><img src="assets/ryzenlite.svg" width="49%" alt="ryzenlite"/></a>
+  <a href="https://github.com/emirhan-tan/emirhantan.com.tr"><img src="assets/site.svg" width="49%" alt="emirhantan.com.tr"/></a>
+</p>
 
-<div align="center">
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=emirhan-tan&theme=dark&background=0a0c0f&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&date_format=j%20M%20Y&card_width=560" alt="GitHub Streak" width="70%"/>
+<h3 align="center">📊 GitHub</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan-tan&bg_color=0a0c0f&color=e8ecf1&line=78ffb4&point=ffb86b&area=true&area_color=78ffb4&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi%20%C2%B7%20Contribution%20Graph" alt="Activity Graph" width="100%"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=emirhan-tan&theme=dark&background=0d1117&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&date_format=j%20M%20Y&card_width=560&hide_border=false" width="70%" alt="GitHub streak"/>
+</p>
 
-</div>
-
----
-
-### 🐍 Katkı Yılanı · Contribution Snake
-
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan-tan&bg_color=0d1117&color=8a94a3&line=78ffb4&point=ffb86b&area=true&area_color=78ffb4&hide_border=true&custom_title=Katk%C4%B1lar%20%C2%B7%20Contributions" width="100%" alt="Contribution graph"/>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake.svg"/>
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake-dark.svg"/>
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:78ffb4,50:0f3d2a,100:0a0c0f&height=110&section=footer" width="100%" alt=""/>
+<p align="center"><sub>
+  <a href="https://emirhantan.com.tr">emirhantan.com.tr</a> ·
+  <a href="https://emirhantan.com.tr/?lang=en">English site</a> ·
+  Made with 💚 in İstanbul
+</sub></p>
