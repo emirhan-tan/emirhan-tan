@@ -59,7 +59,9 @@ Hi, I'm **Emirhan** 👋 a software developer based in Istanbul.
 <h3 align="center">🚀 Projeler · Projects</h3>
 
 <p align="center">
+  <a href="https://github.com/emirhan-tan/xray-home-exit"><img src="assets/xray-home-exit.svg" width="49%" alt="xray-home-exit"/></a>
   <a href="https://github.com/emirhan-tan/ryzenlite"><img src="assets/ryzenlite.svg" width="49%" alt="ryzenlite"/></a>
+  <br/>
   <a href="https://emirhantan.com.tr"><img src="assets/site.svg" width="49%" alt="emirhantan.com.tr"/></a>
 </p>
 
