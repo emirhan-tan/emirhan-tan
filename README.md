@@ -10,7 +10,7 @@
   <a href="https://emirhantan.com.tr"><img src="https://img.shields.io/badge/emirhantan.com.tr-0a0c0f?style=for-the-badge&logo=googlechrome&logoColor=78ffb4" alt="Website"/></a>
   <a href="https://www.linkedin.com/in/emirhantan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/emirhantan.0"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ryzenemir&style=for-the-badge&color=78ffb4&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME" alt="Profil görüntülenme"/>
+  <img src="https://komarev.com/ghpvc/?username=emirhan-tan&style=for-the-badge&color=78ffb4&label=PROFIL+G%C3%96R%C3%9CNT%C3%9CLENME" alt="Profil görüntülenme"/>
 </p>
 
 </div>
@@ -59,8 +59,8 @@ const emirhan = {
 
 | Proje | Açıklama | Teknoloji |
 |---|---|---|
-| [**ryzenlite**](https://github.com/ryzenemir/ryzenlite) | OpenWrt için Xray tabanlı seçici tünel ve modern LuCI paneli — VLESS / Vision / REALITY / ECH, TPROXY / TUN / Mixed, cihaz bazlı tünel, tek tıkla güncelleme | OpenWrt · LuCI · Xray |
-| [**emirhantan.com.tr**](https://github.com/ryzenemir/emirhantan.com.tr) | Kişisel developer sayfam — parçacık ağı, yazı animasyonları, GitHub'dan canlı repo listesi | HTML · CSS · JavaScript |
+| [**ryzenlite**](https://github.com/emirhan-tan/ryzenlite) | OpenWrt için Xray tabanlı seçici tünel ve modern LuCI paneli — VLESS / Vision / REALITY / ECH, TPROXY / TUN / Mixed, cihaz bazlı tünel, tek tıkla güncelleme | OpenWrt · LuCI · Xray |
+| [**emirhantan.com.tr**](https://github.com/emirhan-tan/emirhantan.com.tr) | Kişisel developer sayfam — parçacık ağı, yazı animasyonları, GitHub'dan canlı repo listesi | HTML · CSS · JavaScript |
 
 ---
 
@@ -68,9 +68,9 @@ const emirhan = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ryzenemir&theme=dark&background=0a0c0f&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&locale=tr" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=emirhan-tan&theme=dark&background=0a0c0f&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&locale=tr" alt="GitHub Streak" width="49%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ryzenemir&bg_color=0a0c0f&color=e8ecf1&line=78ffb4&point=ffb86b&area=true&area_color=78ffb4&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan-tan&bg_color=0a0c0f&color=e8ecf1&line=78ffb4&point=ffb86b&area=true&area_color=78ffb4&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Activity Graph" width="100%"/>
 
 </div>
 
@@ -81,9 +81,9 @@ const emirhan = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryzenemir/ryzenemir/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryzenemir/ryzenemir/output/github-snake.svg"/>
-  <img alt="Katkı yılanı" src="https://raw.githubusercontent.com/ryzenemir/ryzenemir/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake.svg"/>
+  <img alt="Katkı yılanı" src="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake-dark.svg"/>
 </picture>
 
 </div>
