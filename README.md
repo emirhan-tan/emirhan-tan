@@ -71,10 +71,6 @@ Hi, I'm **Emirhan** 👋 a software developer based in Istanbul.
   <img src="https://streak-stats.demolab.com?user=emirhan-tan&theme=dark&background=0d1117&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&date_format=j%20M%20Y&card_width=560&hide_border=false" width="70%" alt="GitHub streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan-tan&bg_color=0d1117&color=8a94a3&line=78ffb4&point=ffb86b&area=true&area_color=78ffb4&hide_border=true&custom_title=Katk%C4%B1lar%20%C2%B7%20Contributions" width="100%" alt="Contribution graph"/>
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emirhan-tan/emirhan-tan/output/github-snake.svg"/>
