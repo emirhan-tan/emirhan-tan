@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0c0f,50:0f3d2a,100:78ffb4&height=200&section=header&text=Emirhan%20Tan&fontSize=62&fontColor=e8ecf1&fontAlignY=36&desc=Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici%20%C2%B7%20%C4%B0stanbul&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Emirhan Tan"/>
 
 <a href="https://emirhantan.com.tr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=78FFB4&center=true&vCenter=true&width=620&lines=Merhaba%2C+ben+Emirhan+%F0%9F%91%8B;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;JavaScript+%C2%B7+PHP+%C2%B7+Python+%C2%B7+C+%C2%B7+C%23;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%40+%C4%B0G%C3%9C;Eski+IT+Stajyeri+%40+%C3%96zkan+Tekstil" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=78FFB4&center=true&vCenter=true&width=620&lines=Merhaba%2C+ben+Emirhan+%F0%9F%91%8B;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici;JavaScript+%C2%B7+PHP+%C2%B7+Python+%C2%B7+C+%C2%B7+C%23;Bilgisayar+Programc%C4%B1l%C4%B1%C4%9F%C4%B1+%40+%C4%B0G%C3%9C" alt="Typing SVG"/>
 </a>
 
 <p>
