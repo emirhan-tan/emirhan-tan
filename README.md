@@ -60,7 +60,7 @@ Hi, I'm **Emirhan** 👋 a software developer based in Istanbul.
 
 <p align="center">
   <a href="https://github.com/emirhan-tan/ryzenlite"><img src="assets/ryzenlite.svg" width="49%" alt="ryzenlite"/></a>
-  <a href="https://github.com/emirhan-tan/emirhantan.com.tr"><img src="assets/site.svg" width="49%" alt="emirhantan.com.tr"/></a>
+  <a href="https://emirhantan.com.tr"><img src="assets/site.svg" width="49%" alt="emirhantan.com.tr"/></a>
 </p>
 
 <br/>
