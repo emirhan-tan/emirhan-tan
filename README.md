@@ -68,7 +68,7 @@ const emirhan = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=emirhan-tan&theme=dark&background=0a0c0f&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&locale=tr" alt="GitHub Streak" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=emirhan-tan&theme=dark&background=0a0c0f&ring=78ffb4&fire=ffb86b&currStreakLabel=78ffb4&sideLabels=e8ecf1&dates=8a94a3&stroke=1f252d&border=1f252d&locale=tr&date_format=j%20M%20Y&card_width=560" alt="GitHub Streak" width="70%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=emirhan-tan&bg_color=0a0c0f&color=e8ecf1&line=78ffb4&point=ffb86b&area=true&area_color=78ffb4&hide_border=true&custom_title=Katk%C4%B1%20Grafi%C4%9Fi" alt="Activity Graph" width="100%"/>
 
